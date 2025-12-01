@@ -57,17 +57,6 @@ I combine strong software engineering foundations with modern data science tools
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chucaflu11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chucaflu11&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
   <p>Let's connect and build something impactful!</p>
 </div>
