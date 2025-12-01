@@ -18,7 +18,7 @@
 
 I'm a **Computer Engineering** student based in Santiago, Chile, currently bridging the gap between academic research and real-world industry solutions. My focus has shifted from general software development to **Applied Artificial Intelligence** and **Data Governance**.
 
-* 🔭 **Current Role:** Incoming Intern at **Transbank** (Government of Data & Culture).
+* 🔭 **Current Role:** Intern at **Transbank** (Government of Data & Culture).
 * 🎓 **Academic:** Teaching Assistant for Data Structures & Algorithms.
 * 🏆 **Highlight:** Winner of the **Best Undergraduate Poster Award** at the IV Vive la Investigación Congress for my work on agricultural yield prediction.
 * 🧠 **Interests:** Deep Learning (CNNs, RNNs), Data Quality, and Full Stack Development (Node.js/React).
